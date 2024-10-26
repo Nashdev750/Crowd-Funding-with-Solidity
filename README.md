@@ -943,6 +943,4 @@ If you run into any problems, feel free to ask on the [Figment Learn Discord](ht
 
 # About the Authors
 
-The written tutorials were created by [Alex Reyes](https://www.linkedin.com/in/alexreyes-tech). Alex is a student \(BS, Computer Science\) and crypto enthusiast who's learning all about the world of web3 one day at a time and he's contributing to Web3 communities actively. He previously completed internships at Facebook and Microsoft.
-
-The videos were created by [Neo Cho](https://www.linkedin.com/in/neocho/). Neo is a student \(BS, Computer Science\) at the University of Central Florida. He enjoys learning about crypto and is excited about the future of web3.
+The written tutorials were created by [Nashdev750]
